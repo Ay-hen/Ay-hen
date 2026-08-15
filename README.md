@@ -4,21 +4,7 @@
 
 ### Software Engineer · Backend & Full-Stack Developer
 
-<p>
-  <a href="https://github.com/Ay-hen">
-    <img src="https://img.shields.io/badge/GitHub-Ay--hen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayoub-hen">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hennani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ayoubbrahim.hennanii@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=004F90&center=true&vCenter=true&width=750&lines=Building+secure+backend+systems;Designing+clean+REST+APIs;Creating+modern+web+%26+mobile+clients;Java+%7C+Spring+Boot+%7C+Angular+%7C+React" alt="Typing animation"/>
-
-<br/>
 
 > **Engineering secure systems, clean APIs, and complete products.**
 
