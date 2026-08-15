@@ -286,27 +286,6 @@ Always improving — currently focusing more deeply on system design, testing an
 
 </div>
 
----
-
-# 🎓 Education
-
-### 🎓 Faculté des Sciences et Techniques de Mohammedia
-
-**Diplôme d'Ingénieur — Génie Mathématique et Informatique**
-
-`2022 – 2025` · Morocco
-
-### 🎓 Faculté Polydisciplinaire de Ouarzazate
-
-**Licence — Sciences Mathématiques et Informatique**
-
-`2019 – 2022` · Morocco
-
-### 🎓 Faculté Polydisciplinaire de Ouarzazate
-
-**DEUG — Sciences Mathématiques et Informatique**
-
-`2019 – 2021` · Morocco
 
 ---
 
