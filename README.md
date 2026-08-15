@@ -75,6 +75,8 @@ Full-stack storefront covering product catalog, cart, and order management, back
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ay-hen&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-hen&layout=compact&theme=default&hide_border=true)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Ay-hen&color=blue&style=flat-square)
+
 ## Contact
 
 📧 ayoubbrahim.hennanii@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-hen)
