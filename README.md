@@ -73,11 +73,7 @@ Native Android client (MVVM) that consumes the banking backend above, letting us
 ### [Nexus — E-Commerce Platform](https://github.com/Ay-hen/nexus-commerce) — Angular · Spring Boot · REST API
 Full-stack storefront covering product catalog, cart, and order management, backed by a role-secured Spring Boot REST API (JWT auth) with an admin analytics dashboard.
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ay-hen&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-hen&layout=compact&theme=default&hide_border=true)
 
 ## Contact
 
-📧 hennani.2020@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-hen)
+📧 ayoubbrahim.hennanii@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-hen)
