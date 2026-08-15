@@ -11,10 +11,7 @@ I build secure, well-tested APIs and clean web/mobile clients.
 
 ## About Me
 
-- 🎓 Recently graduated (Génie Mathématique et Informatique), actively looking for Software Engineering roles
-- 🔐 Focused on secure backend systems — Spring Security, JWT, REST APIs
-- 📱 Building full-stack apps across web (Angular/React) and mobile (Kotlin/Android)
-- 🌱 Currently sharpening my skills in system design, testing, and CI/CD
+I'm a junior software engineer who likes making sure the door is locked before worrying about the paint job — I come from a Génie Mathématique et Informatique background, and somewhere between debugging JWT tokens at 2 AM and untangling a Spring Security filter chain, backend development just stuck. 🔐 I care about APIs that are secure by default, not as an afterthought, and I like pairing that backend work with clean web (Angular/React) and mobile (Kotlin/Android) clients so the whole thing actually feels like one product. Still early in the journey, still leveling up — right now that means going deeper on system design, testing, and CI/CD — and actively looking for a team where I can keep doing exactly that. 🚀
 
 ## Tech Stack
 
@@ -73,6 +70,10 @@ Native Android client (MVVM) that consumes the banking backend above, letting us
 ### [Nexus — E-Commerce Platform](https://github.com/Ay-hen/nexus-commerce) — Angular · Spring Boot · REST API
 Full-stack storefront covering product catalog, cart, and order management, backed by a role-secured Spring Boot REST API (JWT auth) with an admin analytics dashboard.
 
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ay-hen&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-hen&layout=compact&theme=default&hide_border=true)
 
 ## Contact
 
