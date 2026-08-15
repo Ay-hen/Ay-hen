@@ -1,81 +1,361 @@
 <div align="center">
 
-# Hi, I'm Ayoub Brahim Hennani (Ay-hen) 👋
+# HENNANI AYOUB BRAHIM
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=004F90&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+Backend+%26+Full-Stack+Developer;Java+%2F+Spring+Boot+%7C+Angular+%2F+React+%7C+Android;Building+secure%2C+well-tested+APIs+and+clean+clients" alt="Typing SVG" />
+### Software Engineer · Backend & Full-Stack Developer
+
+<p>
+  <a href="https://github.com/Ay-hen">
+    <img src="https://img.shields.io/badge/GitHub-Ay--hen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayoub-hen">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayoub%20Hennani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ayoubbrahim.hennanii@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=004F90&center=true&vCenter=true&width=750&lines=Building+secure+backend+systems;Designing+clean+REST+APIs;Creating+modern+web+%26+mobile+clients;Java+%7C+Spring+Boot+%7C+Angular+%7C+React" alt="Typing animation"/>
+
+<br/>
+
+> **Engineering secure systems, clean APIs, and complete products.**
 
 </div>
 
-Software Engineer focused on backend systems and full-stack development.
-I build secure, well-tested APIs and clean web/mobile clients.
+---
 
-## About Me
+## 👨‍💻 About Me
 
-I'm a junior software engineer who likes making sure the door is locked before worrying about the paint job — I come from a Génie Mathématique et Informatique background, and somewhere between debugging JWT tokens at 2 AM and untangling a Spring Security filter chain, backend development just stuck. 🔐 I care about APIs that are secure by default, not as an afterthought, and I like pairing that backend work with clean web (Angular/React) and mobile (Kotlin/Android) clients so the whole thing actually feels like one product. Still early in the journey, still leveling up — right now that means going deeper on system design, testing, and CI/CD — and actively looking for a team where I can keep doing exactly that. 🚀
+I'm a **Software Engineer** focused on backend and full-stack development, with a strong interest in building secure, maintainable, and production-ready applications.
 
-## Tech Stack
+My main ecosystem is **Java + Spring Boot**, complemented by **Angular, React, Kotlin/Android**, and modern database technologies.
 
-**Languages**
-<p> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-</p>
+I particularly enjoy working on:
 
-**Backend**
+- 🔐 Secure authentication & authorization
+- ⚙️ REST API design and backend architecture
+- 🗄️ Database design and optimization
+- 🌐 Full-stack web applications
+- 📱 Native Android applications
+- 🧪 Clean, maintainable and testable code
+- 🚀 CI/CD and modern development workflows
+
+I'm currently deepening my knowledge of **system design, automated testing, DevOps and scalable backend architecture**.
+
+---
+
+## 🧠 Engineering Focus
+
+<div align="center">
+
+| 🔐 Security | ⚙️ Backend | 🌐 Full-Stack | 📱 Mobile |
+|:---:|:---:|:---:|:---:|
+| JWT | Java | Angular | Kotlin |
+| Spring Security | Spring Boot | React | Android |
+| RBAC | REST APIs | TypeScript | MVVM |
+| Secure APIs | JPA | Responsive UI | REST Clients |
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+### Backend
+
 <p>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,django,nodejs" />
 </p>
 
-**Frontend**
+`Java` · `Spring Boot` · `Spring Security` · `Spring Data JPA` · `JWT` · `REST APIs` · `Django` · `Node.js`
+
+### Frontend
+
 <p>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css" />
 </p>
 
-**Mobile**
+`Angular` · `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS`
+
+### Mobile
+
 <p>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio" />
 </p>
 
-**Data**
+`Kotlin` · `Android` · `Android Studio` · `MVVM`
+
+### Databases
+
 <p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
 </p>
 
-**DevOps**
+`PostgreSQL` · `MongoDB` · `MySQL` · `SQL` · `PL/SQL`
+
+### DevOps & Tools
+
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,jenkins,maven" />
 </p>
 
-## Featured Projects
+`Git` · `GitHub` · `Docker` · `Jenkins` · `Maven` · `CI/CD`
 
-### [Bank Application](https://github.com/Ay-hen/Web-Bank-App) — Spring Boot · Spring Security · JWT · Docker
-Banking backend for account and transaction management, exposing 15+ documented REST APIs, secured end-to-end with stateless JWT authentication via Spring Security.
+---
 
-### [Bank Application — Android Client](https://github.com/Ay-hen/Mobile-Bank-App) — Kotlin · Android · MVVM
-Native Android client (MVVM) that consumes the banking backend above, letting users check accounts, review transaction history, and manage their profile on the go.
+# 🚀 Featured Projects
 
-### [Nexus — E-Commerce Platform](https://github.com/Ay-hen/nexus-commerce) — Angular · Spring Boot · REST API
-Full-stack storefront covering product catalog, cart, and order management, backed by a role-secured Spring Boot REST API (JWT auth) with an admin analytics dashboard.
+<div align="center">
 
-## GitHub Stats
+<a href="https://github.com/Ay-hen/Web-Bank-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ay-hen&repo=Web-Bank-App&theme=transparent&hide_border=true" />
+</a>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ay-hen&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-hen&layout=compact&theme=default&hide_border=true)
+<a href="https://github.com/Ay-hen/nexus-commerce">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ay-hen&repo=nexus-commerce&theme=transparent&hide_border=true" />
+</a>
 
+</div>
 
-## Contact
+---
 
-📧 ayoubbrahim.hennanii@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/ayoub-hen)
+## 🏦 Web Bank Application
+
+**Full-stack banking platform**
+
+Built a banking application for managing users, accounts and financial transactions.
+
+### Highlights
+
+- 🔐 Stateless JWT authentication with Spring Security
+- 🔄 REST APIs for banking operations
+- 📊 Transaction management and analytics
+- 🗄️ PostgreSQL + JPA optimization
+- 📚 Swagger / OpenAPI documentation
+- 👥 Production application with 100+ active users
+- ⚡ Improved transaction processing performance
+
+**Stack**
+
+`Java` `Spring Boot` `Spring Security` `JPA` `PostgreSQL` `Angular` `JWT` `Swagger`
+
+<p>
+<a href="https://github.com/Ay-hen/Web-Bank-App">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📱 Web Bank — Android Client
+
+**Native Android application for the banking platform**
+
+A Kotlin Android client communicating with the banking backend through REST APIs.
+
+### Highlights
+
+- 📱 Native Android application
+- 🧩 MVVM architecture
+- 🔗 REST API integration
+- 👤 User/profile management
+- 💳 Account and transaction views
+- 🔐 Secure authenticated communication
+
+**Stack**
+
+`Kotlin` `Android` `MVVM` `REST API`
+
+<p>
+<a href="https://github.com/Ay-hen/Mobile-Bank-App">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🛒 Nexus Commerce
+
+**Modern full-stack e-commerce platform**
+
+A scalable e-commerce application focused on product, inventory, customer and order management.
+
+### Highlights
+
+- 🛍️ Product and inventory management
+- 🛒 Cart and order management
+- 👥 Customer management
+- 🔐 JWT authentication
+- 🛡️ Role-based authorization
+- 📊 Admin analytics dashboard
+- 🔔 Notification system
+- 🌐 RESTful backend architecture
+
+**Stack**
+
+`Angular 22` `Spring Boot` `Spring Security` `JWT` `REST API`
+
+<p>
+<a href="https://github.com/Ay-hen/nexus-commerce">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📸 Photography Booking Platform
+
+**Multi-role photographer reservation platform**
+
+A web application connecting customers with photographers while providing photographers with reservation management tools.
+
+### Highlights
+
+- 📅 Photographer reservation system
+- 👤 Customer & photographer roles
+- 🔐 JWT authentication
+- 🛡️ Spring Security
+- ✅ Automated booking validation
+- 🗄️ MongoDB persistence
+
+**Stack**
+
+`Spring Boot` `Spring Security` `MongoDB` `Angular` `JWT`
+
+<p>
+<a href="https://github.com/Ay-hen/Photography">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 💬 Expium
+
+**Real-time social network**
+
+A social platform focused on content sharing and real-time communication.
+
+### Highlights
+
+- 📝 Post creation and sharing
+- 💬 Real-time messaging
+- 🔔 Real-time notifications
+- 🔐 JWT authentication
+- ⚡ WebSocket communication
+- 👥 User interactions
+
+**Stack**
+
+`Spring Boot` `React` `MongoDB` `WebSocket` `JWT`
+
+<p>
+<a href="https://github.com/Ay-hen/MiniProjet-Expium">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 📊 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ay-hen&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ay-hen&layout=compact&hide_border=true&theme=transparent" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ay-hen&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+# 🧩 Development Philosophy
+
+<div align="center">
+
+### 🔐 Security First
+Secure authentication and authorization should be part of the architecture from the beginning.
+
+### 🧱 Clean Architecture
+Readable, maintainable and well-structured code is more valuable than unnecessary complexity.
+
+### ⚡ Performance
+Efficient APIs, database queries and application architecture matter.
+
+### 🧪 Quality
+Testing, documentation and good engineering practices are part of delivering software.
+
+### 🚀 Continuous Learning
+Always improving — currently focusing more deeply on system design, testing and CI/CD.
+
+</div>
+
+---
+
+# 🎓 Education
+
+### 🎓 Faculté des Sciences et Techniques de Mohammedia
+
+**Diplôme d'Ingénieur — Génie Mathématique et Informatique**
+
+`2022 – 2025` · Morocco
+
+### 🎓 Faculté Polydisciplinaire de Ouarzazate
+
+**Licence — Sciences Mathématiques et Informatique**
+
+`2019 – 2022` · Morocco
+
+### 🎓 Faculté Polydisciplinaire de Ouarzazate
+
+**DEUG — Sciences Mathématiques et Informatique**
+
+`2019 – 2021` · Morocco
+
+---
+
+# 🌍 Languages
+
+| Language | Level |
+|----------|-------|
+| 🇲🇦 Arabic | Native |
+| 🇫🇷 French | Professional |
+| 🇬🇧 English | Professional |
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **software engineering opportunities, collaborations and interesting technical projects**.
+
+<br/>
+
+<a href="mailto:ayoubbrahim.hennanii@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayoub-hen">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Ay-hen">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**Thanks for visiting my profile! 🚀**
+
+</div>
