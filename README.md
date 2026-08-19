@@ -289,15 +289,6 @@ Always improving — currently focusing more deeply on system design, testing an
 
 ---
 
-# 🌍 Languages
-
-| Language | Level |
-|----------|-------|
-| 🇲🇦 Arabic | Native |
-| 🇫🇷 French | Professional |
-| 🇬🇧 English | Professional |
-
----
 
 # 🤝 Let's Connect
 
